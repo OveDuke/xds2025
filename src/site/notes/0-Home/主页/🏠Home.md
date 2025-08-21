@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","title":"Home🏠","permalink":"/0-home//home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","title":"Home🏠","permalink":"/0-Home/主页/🏠Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # A 振动与冲击
